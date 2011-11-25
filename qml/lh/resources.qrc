@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file alias="quit">images/quit.png</file>
+        <file alias="back">images/back.png</file>
+        <file alias="next">images/next.png</file>
+        <file alias="spinning">images/spinning.png</file>
+        <file alias="spinning-black">images/spinning-black.png</file>
+        <file alias="about">images/about.png</file>
+        <file alias="wadobo">images/wadobo.png</file>
+        <file alias="lh">images/lh.png</file>
+    </qresource>
+</RCC>
